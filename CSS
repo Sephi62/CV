@@ -1,0 +1,116 @@
+h1
+{
+	color: #3dd2cc;
+	font-family: hammersmith one;
+	font-size: 3em;
+	text-align: left;
+	margin-left: 75px;
+	margin-top: 75px;
+	text-align: center;
+}
+
+h2
+{
+	font-family: hammersmith one;
+	font-size: 2em;
+	margin-left: 75px;
+	text-align: center;
+	color: #3dd2cc;
+}
+
+h3
+{
+	font-family: hammersmith one;
+	color: #3dd2cc;
+	margin-left: 75px;
+}
+
+p
+{
+	font-size: 1em;
+	font-family: hammersmith one;
+	margin-left: 75px;
+	color: #3e6b89;
+	font-weight: bold;
+}
+
+ul
+{
+	font-family: hammersmith one;
+	font-size: 0,6em;
+	margin-left: 50px;
+	color: #3e6b89;
+	font-weight: bold;
+}
+
+.profil
+{
+	width: 40%;
+}
+
+.experience
+{
+	width: 30%;
+	position: absolute;
+	top: 300px;
+	right: 100px;
+}
+
+.formation
+{
+	width: 30%;
+	position: absolute;
+	top: 550px;
+	right: 100px;
+}
+
+.competence
+{
+	width: 30%;
+	position: absolute;
+	right: 100px;
+	top: 780px;
+}
+
+.titre3
+{
+	position: absolute;
+	top: 250px;
+	right: 275px;
+}
+
+.titre4
+{
+	position: absolute;
+	top: 500px;
+	right: 400px;
+}
+
+.titre5
+{
+	position: absolute;
+	top: 730px;
+	right: 285px;
+}
+
+.perso
+{
+	position: absolute;
+	top: 500px;
+}
+
+.info
+{
+	position: absolute;
+	top: 300px;
+}
+
+.droite
+{
+	background-color: red;
+}
+
+body
+{
+	background-color: #e0d9af;
+}
